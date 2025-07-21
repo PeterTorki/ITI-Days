@@ -1,0 +1,9 @@
+p {
+  color: blueviolet;
+  font-family: Georgia, "Times New Roman", Times, serif; /* fallback technique, last name: for the family */
+	font-style: italic;
+	font-weight: bold;
+	font-size: 28px;
+	font-variant: small-caps;
+	
+}
